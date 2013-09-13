@@ -34,3 +34,9 @@ Copy to your library folder, add it to your class-path and off you go.
 * Hashing Algorithms: MD2, MD5, SHA-1, SHA-224, SHA-256
 * Paddings available: PKCS#5, PKCS#1 type 1 and 2
 * Other Useful Stuff: HMAC, Random, TLS-PRF, some ASN-1/DER parsing
+
+# Build the swc file:
+
+1. open the `build.properties`, modify FLEX_HOME
+2. `ant` 
+
